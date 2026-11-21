@@ -1,0 +1,16 @@
+# Environment variables
+.env
+.env.*
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+app/__pycache__/
+
+# Virtual environment
+.venv/
+.vscode/
+.alembic/
+alembic.ini
+.python-version
